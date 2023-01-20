@@ -1,5 +1,7 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# Many Mistakes: A *highly* opinionated fork of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+This is my personal base theme for my jekyll sites.  It will be *quite* volatile at the moment so you really should probably stop reading at this point and not use this.  The one thing that you may be interested in at this point is a pre-baked docker-compose project that I use for testing my changes.
 
+## Licensing
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
