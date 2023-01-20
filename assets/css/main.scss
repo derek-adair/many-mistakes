@@ -5,5 +5,5 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "many-mistakes/skins/{{ site.many_mistakes_skin | default: 'default' }}"; // skin
+@import "many-mistakes"; // main partials
